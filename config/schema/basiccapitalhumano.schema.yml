@@ -1,6 +1,6 @@
-basic.settings:
+basiccapitalhumano.settings:
   type: theme_settings
-  label: 'Basic theme settings'
+  label: 'basiccapitalhumano theme settings'
   mapping:
     browser_sync:
       type: mapping

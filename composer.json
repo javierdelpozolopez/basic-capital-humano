@@ -1,8 +1,8 @@
 {
-  "name": "drupal/basic",
+  "name": "drupal/basic-capital-humano",
   "description": "HTML5, SASS, Responsive grid starter theme.",
   "type": "drupal-theme",
-  "homepage": "http://drupal.org/project/basic",
+  "homepage": "http://drupal.org/project/basic-capital-humano",
   "authors": [
     {
       "name": "Steve Krueger",
@@ -42,9 +42,9 @@
     }
   ],
   "support": {
-    "issues": "https://www.drupal.org/project/issues/basic",
+    "issues": "https://www.drupal.org/project/issues/basic-capital-humano",
     "irc": "irc://irc.freenode.org/drupal-contribute",
-    "source": "http://cgit.drupalcode.org/basic"
+    "source": "http://cgit.drupalcode.org/basic-capital-humano"
   },
   "license": "GPL-2.0+",
   "minimum-stability": "dev",
