@@ -64,3 +64,22 @@ $focus-outline-offset: 2px;
 // Animations
 $base-duration: 150ms;
 $base-timing: ease;
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500');
+
+$font-family: 'roboto', sans-serif;
+
+
+$movil : 720px;
+
+$white : #ffffff;
+$blue  :  #009EE3;
+$green :  #91B508;
+$purple : #7C0E6F;
+$orange : #F27C00;
+$magenta : #D8006B;
+$light-gray : #ececec;
+$medium-gray : #707070;
+$dark-gray : #626262;
+$container-fill-color : $white;

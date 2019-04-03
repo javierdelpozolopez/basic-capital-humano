@@ -83,3 +83,73 @@ abbr {
   cursor: help;
   white-space: nowrap;
 }
+
+
+
+// MI CODE
+
+.mf__h1{
+  font-size: 5vw;
+  width: 100%;
+  color: $white;
+  margin: 0;
+  @media only screen and (max-width: $movil){
+      font-size: 10vw;
+  }
+}
+.mf__h2{
+  font-size: 3vw;
+  width: 100%;
+  font-weight: 200;    
+  color: $blue;
+  margin: 0;
+  @media only screen and (max-width: $movil){
+      font-size: 8vw;
+  }
+}
+.mf__h3{
+  font-size: 4.3vw;
+  color: $green;
+  margin: 0;
+  @media only screen and (max-width: $movil){
+      font-size: 8vw;
+  }
+}
+.mf__h4{
+  font-size: 8vw;
+  color: $white;
+  margin: 0;
+  @media only screen and (max-width: $movil){
+      font-size: 18vw;
+  }
+}
+
+.mdc-typography--headline1{
+  @media only screen and (max-width: $movil){
+      font-size: 12vw;
+  }
+}
+
+.mdc-typography--headline3{
+  @media only screen and (max-width: $movil){
+      font-size: 9vw;
+  }
+}
+
+.mdc-typography--headline4{
+  @media only screen and (max-width: $movil){
+      font-size: 6vw;
+  }
+}
+
+.mdc-typography--headline5{
+  @media only screen and (max-width: $movil){
+      font-size: 4vw;
+  }
+}
+
+.desc__text{
+  @media only screen and (max-width: $movil){
+      font-size: 12vw;
+  }
+}
